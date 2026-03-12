@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://helix-energy.ua/sitemap.xml
